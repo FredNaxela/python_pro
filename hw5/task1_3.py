@@ -91,7 +91,7 @@ class ProperFraction:
     
 
 try:    
-    f1 = ProperFraction(1, 0)
+    f1 = ProperFraction(1, 2)
     f2 = ProperFraction(1, 4)
 except ValueError as e:
     print(e)
